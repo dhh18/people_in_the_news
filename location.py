@@ -1,3 +1,9 @@
+'''
+Created on 25.5.2018
+
+@author: Johneagle
+'''
+
 import wget, json, re, sys, os
 
 def query(A, B):
