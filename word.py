@@ -1,3 +1,9 @@
+'''
+Created on 24.5.2018
+
+@author: Johneagle
+'''
+
 import wget
 import urllib
 
