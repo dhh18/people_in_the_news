@@ -8,7 +8,7 @@ import wget, json, re, sys, os
 
 def query(A, B):
 
-    URL = 'https://korp.csc.fi/cgi-bin/korp.cgi?command=query&defaultcontext=1+sentence&show=sentence.ne_placename(._source)&show_struct=text_label.text_publ_(title.id).text_issue_(date.no.title).paragraph_id.text_(download_pdf_url.author.title.year).utterance_(id.participant.begin_time.end_time.duration.annex_link)&start=0&end=9999999&corpus=KLK_FI_' + A + '.REITTIDEMO&context=&incremental=true&cqp=%5B_.text_publ_id+%3D+"' + B + '"+%26+nertag+%3D+"EnamexLoc.*"%5D&defaultwithin=sentence'
+    URL = 'https://korp.csc.fi/cgi-bin/korp.cgi?command=query&defaultcontext=1&show=lemma&show_struct=text_label.text_publ_(title.id).text_issue_(date.no.title)&start=0&end=9999999&corpus=KLK_FI_' + A + '.REITTIDEMO&context=&incremental=true&cqp=%5B_.text_publ_id+%3D+"' + B + '"+%26+nertag+%3D+"EnamexLoc.*"%5D&defaultwithin=sentence'
 
     return URL
 
