@@ -46,6 +46,7 @@ def main(infile="json/korp.json", outfile=None):
                     else:
                         # print('Filtered {}'.format(st))
                         counts[1] += 1
+    """
     # order so full names appear first
     res = sorted(res, key=lambda x:x.count('.'))
 
@@ -61,13 +62,13 @@ def main(infile="json/korp.json", outfile=None):
     
     # dictionary to set
     lst = sorted(list(set(dct.values())))
-    """
+    
     for prs in lst:
         print(prs)
     """
     print('Total entries {}'.format(counts[0]))
     print('Filtered entries {}'.format(counts[1]))
-    print('Total person {}'.format(len(lst)))
+    # print('Total person {}'.format(len(lst)))
 
 class Person:
     
