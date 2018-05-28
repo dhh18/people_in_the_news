@@ -1,0 +1,128 @@
+Aamulehti; 1881-2018; 0355-6913
+Arbetaren; 1904-1907; 1458-0527
+Björneborgs Tidning; 1872-1930; 1457-4292
+Borgåbladet; 1860-1929; 0358-6294
+Elämä; 1905-1907; fk10035
+Eteenpäin; 1905-1918; fk14940
+Etelä-Pohjanmaa; 1906-1911; fk10041
+Etelä-Suomi; 1902-1923; 0356-1690
+Finlands Allmänna Tidning; 1820-1931; 1457-4314
+Finljandskaja Gazeta; 1900-1917; fk10052
+Forssan Sanomat; 1904-1907; fk10061
+Fredrikshamns Tidning; 1884-1910; 1458-0721
+Fritt Folk; 1906-1907; fk10063
+Haminan Lehti; 1907-1929; fk10068
+Haminan Sanomat; 1907-1915; 1458-0756
+Hangö; 1890-1929; 1458-0764
+Heinolan Sanomat; 1905-1912; fk10080
+Helsingin Sanomat; 1904-2018; 0355-2047
+Hufvudstadsbladet; 1864-2017; 0356-0724
+Hämeen Sanomat; 1879-2018; 0356-2751
+Hämeen Voima; 1906-1918; fk10105
+Hämetär; 1903-1919; fk10108
+Ilkka; 1906-2018; 0356-1283
+Itä-Hämeen Raivaaja; 1905-1907; fk10121
+Itä-Suomen Sanomat; 1894-1913; fk10128
+Jaakkiman Sanomat; 1905-1914; fk10133
+Jakobstad; 1905-1915; fk10136
+Juna; 1906-1917; fk10139
+Kaiku; 1877-1929; 1458-090X
+Kaikuja Kajaanista; 1905-1916; fk10149
+Kajaanin Lehti; 1899-1920; fk10157
+Kaleva; 1899-2015; 0356-1356
+Kansalainen; 1896-1912; fk10165
+Kansan Lehti; 1898-1918; fk19511
+Kansan Tahto; 1906-1914; fk10173
+Kansan Ääni; 1907-1918; fk10180
+Karjala; 1903-2018; 0782-7024
+Karjalan Sanomat; 1906-1918; 1458-0969
+Karjalatar; 1874-1917; 1458-0950
+Kauppalehti; 1898-2017; 0451-5560
+Keski-Pohjalainen; 1906-1911; fk10201
+Keski-Savo; 1903-1919; 1458-6630
+Keski-Suomen Sosialisti; 1907-1908; fk10206
+Keski-Suomi; 1871-1917; 1457-4640
+Koitar; 1899-1907; 1458-0748
+Kokkola; 1897-1929; fk10216
+Kotimaa; 1905-2017; 0356-1135
+Kotka Nyheter; 1897-1929; fk14981
+Kyminlaakso; 1906-1916; fk10243
+Käkisalmen Sanomat; 1906-1944; fk10247
+Käkisalmen Suomalainen; 1907-1916; fk10248
+Laatokka; 1882-1914; 1458-2279
+Lahden Lehti; 1900-1908; fk10253
+Lahti; 1905-1929; fk10257
+Lappeenranta; 1907-1917; fk10262
+Liitto; 1906-1929; 0782-6230
+Lounais-Häme; 1907-1909; fk10270
+Länsi-Suomi; 1905-2018; 0782-6419
+Mikkelin Sanomat; 1895-1929; 1458-2481
+Måndagen; 1905-1910; fk10301
+Nya Pressen; 1906-1914; fk10311
+Otava; 1904-1909; 1458-6584
+Perä-Pohjolainen; 1897-1920; fk10340
+Pohjan Poika; 1904-1909; fk10362
+Pohjois-Savo; 1904-1907; fk14938
+Pohjois-Suomi; 1905-1909; fk10373
+Politiken; 1907; fk10379
+Raahe; 1907-1918; fk10393
+Raahen Sanomat; 1906-1918; fk10396
+Raja-Karjala; 1906-1912; fk10400
+Rajavahti; 1906-1914; fk10401
+Rauman Lehti; 1881-1914; 1458-2643
+Salmetar; 1897-1929; 0356-2301
+Satakunnan Sanomat
+1906-1917; 1457-599X
+Satakunta; 1873-1917; 1458-2740
+Savolainen; 1907-1917; fk10435
+Savon Sanomat; 1907-2018; 0356-3510
+Savon Työmies; 1906-1910; fk10445
+Savotar; 1906-1918; fk10450
+Social-Demokraten; 1907-1908; fk25055
+Sorretun Voima; 1906-1917; fk25048
+Sosialidemokraatti; 1906-1918; fk10459
+Sosialisti; 1906-1918; fk10460
+Suomalainen; 1888-1917; 1457-4632
+Suomalainen Kansa; 1907-1911; fk10467
+Suomalainen Työväenliitto; 1907-1909; fk10468
+Suomalainen Wirallinen Lehti; 1866-1919; 1457-4675
+Suupohjan Kaiku; 1897-1919; fk10495
+Suur-Savo; 1906-1917; 1458-8528
+Syd-Österbotten; 1903-1930; 0789-8363
+Talonpojan Lehti; 1906-1907; fk14762
+Tammerfors Nyheter; 1896-1916; 1458-8560
+Tampereen Sanomat; 1904-1919; fk14770
+Tornion Lehti; 1905-1926; fk14784
+Tornion Uutiset; 1905-1912; fk14785
+Turun Lehti; 1882-1919; 1458-8633
+Turun Sanomat; 1905-2018; 0356-133X
+Tyrvään Sanomat; 1894-2018; 0359-0305
+Työ; 1904-1918; fk14794
+Työkansa; 1906-1926; fk14797
+Työläinen; 1906-1916; fk14799
+Työmies; 1895-1918; fk14802
+Tähti; 1905-1913; fk14818
+Uudenkaupungin Sanomat; 1891-2018; 0356-1860
+Uusi Aura; 1897-1929; 1458-0543
+Uusi Suometar; 1869-1918; 1457-4721
+Uusimaa; 1894-2018; 0357-1858
+Uusmaalainen; 1905-1913; fk14837
+Vaasa; 1902-1929; 0789-0745
+Vapaa Sana; 1906-1918; fk14854
+Vapaus; 1906-1929; fk14860
+Vasabladet; 1856-2017; 0356-1844
+Veckobladet; 1892-1917; fk14868
+Veljeys; 1906-1908; fk14869
+Västra Finland; 1895-1928; fk14893
+Västra Nyland; 1889-2017; 0782-6559
+Wasa-Posten; 1898-1929; fk14864
+Wiborgs Nyheter; 1899-1929; 1458-6517
+Wiipuri; 1893-1918; fk14883
+Wiipurin Sanomat. Supistus; 1901-1909; 1458-2724
+Yhdenvertaisuus; 1906-1907; fk14894
+Åbo Underrättelser; 1824-2017; 0785-398X
+Åland; 1891-2017; 0355-9149
+Österbottningen; 1898-1930; 0356-3553
+Österbottniska Posten; 1883-1931; 1458-8803
+Östra Finland; 1905-1910; fk14917
+Östra Nyland; 1881-1929; 0356-5653
