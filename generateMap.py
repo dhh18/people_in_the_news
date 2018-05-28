@@ -4,7 +4,7 @@ Created on 28.5.2018
 @author: Johneagle
 '''
 
-import json, sys
+import json, sys, os
 
 def getLocations(scvPath):
 	scv = {}
@@ -71,4 +71,23 @@ def makeMap(givenJson, givenCsv, filePath):
 					f.write(newStr)
 
 if __name__ == "__main__":
-	makeMap(sys.argv[1], sys.argv[2], "test.csv")
+	cordsCsv = sys.argv[1]
+	folder = os.listdir("data/")
+	
+	for folderName in folder:
+		subFolder = os.listdir("data/"+folderName)
+		
+		yearPath = "csv/"+folderName
+		if not os.path.exists(yearPath):
+			os.mkdir(yearPath)
+		
+		for file in subFolder:
+			parse = file.split(".")
+			
+			jsonPath = "data/"+folderName+"/"+file
+			newCsvMap = "csv/"+folderName+"/"+parse[0]+".csv"
+			makeMap(jsonPath, cordsCsv, newCsvMap)
+
+
+
+
