@@ -1,0 +1,2163 @@
+<?xml version="1.0" ?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <!--property keys-->
+  <key attr.name="label" attr.type="string" for="node" id="key0"/>
+  <key attr.name="weight" attr.type="float" for="edge" id="key1"/>
+  <graph edgedefault="undirected" id="G" parse.edgeids="canonical" parse.nodeids="canonical" parse.order="nodesfirst"/>
+  <!--graph keys-->
+  <data key="key0"/>
+  <data key="key1">1.0</data>
+  <!--vertices-->
+  <node id="allanserlachius">
+    <data key="key0">Allan Serlachius</data>
+  </node>
+  <node id="hugokarsten">
+    <data key="key0">Hugo Karsten</data>
+  </node>
+  <node id="karolinaeskelln">
+    <data key="key0">Karolina Eskelln</data>
+  </node>
+  <node id="gustafniklander">
+    <data key="key0">Gustaf Niklander</data>
+  </node>
+  <node id="justusripatti">
+    <data key="key0">Justus Ripatti</data>
+  </node>
+  <node id="carllindvall">
+    <data key="key0">Carl Lindvall</data>
+  </node>
+  <node id="johannesbrofeldt">
+    <data key="key0">JOHANNES BROFELDT</data>
+  </node>
+  <node id="axelholmstrem">
+    <data key="key0">Axel Holmström</data>
+  </node>
+  <node id="ilonajalava">
+    <data key="key0">Ilona Jalava</data>
+  </node>
+  <node id="kyestikallio">
+    <data key="key0">Kyösti Kallio</data>
+  </node>
+  <node id="mandihytenen">
+    <data key="key0">Mandi Hytönen</data>
+  </node>
+  <node id="alfredholmstrem">
+    <data key="key0">Alfred Holmström</data>
+  </node>
+  <node id="henrikfilppula">
+    <data key="key0">Henrik Filppula</data>
+  </node>
+  <node id="ottohyyry">
+    <data key="key0">Otto Hyyry</data>
+  </node>
+  <node id="eerokilpi">
+    <data key="key0">Eero Kilpi</data>
+  </node>
+  <node id="oskarimantere">
+    <data key="key0">Oskari Mantere</data>
+  </node>
+  <node id="lennartcajander">
+    <data key="key0">Lennart Cajander</data>
+  </node>
+  <node id="erikalovisaforsgrenille">
+    <data key="key0">Erika Lovisa Forsgrenille</data>
+  </node>
+  <node id="idaekman">
+    <data key="key0">Ida Ekman</data>
+  </node>
+  <node id="wilhelmrothen">
+    <data key="key0">Wilhelm Rothen</data>
+  </node>
+  <node id="aukustihiltula">
+    <data key="key0">Aukusti Hiltula</data>
+  </node>
+  <node id="bjernstjernebjernsonin">
+    <data key="key0">Björnstjerne Björnsonin</data>
+  </node>
+  <node id="mattiahola">
+    <data key="key0">Matti Ahola</data>
+  </node>
+  <node id="johnlamas">
+    <data key="key0">John Lamas</data>
+  </node>
+  <node id="naemaericson">
+    <data key="key0">Naema Ericson</data>
+  </node>
+  <node id="helmiselin">
+    <data key="key0">Helmi Selin</data>
+  </node>
+  <node id="hjalmarsederberg">
+    <data key="key0">Hjalmar Söderberg</data>
+  </node>
+  <node id="augustramsay">
+    <data key="key0">August Ramsay</data>
+  </node>
+  <node id="ellenahlqvist">
+    <data key="key0">Ellen Ahlqvist</data>
+  </node>
+  <node id="selimpalmgren">
+    <data key="key0">Selim Palmgren</data>
+  </node>
+  <node id="teodormunck">
+    <data key="key0">Teodor Munck</data>
+  </node>
+  <node id="ainaartukka">
+    <data key="key0">Aina Artukka</data>
+  </node>
+  <node id="juholepiste">
+    <data key="key0">Juho Lepistö</data>
+  </node>
+  <node id="klaraerikavikstrem">
+    <data key="key0">Klara Erika Vikström</data>
+  </node>
+  <node id="pekkaleppänen">
+    <data key="key0">Pekka Leppänen</data>
+  </node>
+  <node id="alexanderfrey">
+    <data key="key0">Alexander Frey</data>
+  </node>
+  <node id="rafaelkarsten">
+    <data key="key0">Rafael Karsten</data>
+  </node>
+  <node id="ellinoringman">
+    <data key="key0">Ellinor Ingman</data>
+  </node>
+  <node id="eljungberg">
+    <data key="key0">E Ljungberg</data>
+  </node>
+  <node id="einorautavaara">
+    <data key="key0">Eino Rautavaara</data>
+  </node>
+  <node id="ainojoki">
+    <data key="key0">Aino Joki</data>
+  </node>
+  <node id="elielmattila">
+    <data key="key0">Eliel Mattila</data>
+  </node>
+  <node id="hiljahaahti">
+    <data key="key0">Hilja Haahti</data>
+  </node>
+  <node id="robertkajanus">
+    <data key="key0">Robert Kajanus</data>
+  </node>
+  <node id="johannaconstance">
+    <data key="key0">Johanna Constance</data>
+  </node>
+  <node id="kaupunginlääkäriernfr">
+    <data key="key0">Kaupunginlääkäri Ernfr</data>
+  </node>
+  <node id="johannesjohansson">
+    <data key="key0">Johannes Johansson</data>
+  </node>
+  <node id="hannesnylander">
+    <data key="key0">Hannes Nylander</data>
+  </node>
+  <node id="ingeborgmaria">
+    <data key="key0">Ingeborg Maria</data>
+  </node>
+  <node id="fritzoeitlin">
+    <data key="key0">Fritz Oeitlin</data>
+  </node>
+  <node id="carlanton">
+    <data key="key0">Carl Anton</data>
+  </node>
+  <node id="erkkikivijärvi">
+    <data key="key0">Erkki Kivijärvi</data>
+  </node>
+  <node id="oanttila">
+    <data key="key0">O. Anttila</data>
+  </node>
+  <node id="robertblomqvist">
+    <data key="key0">Robert Blomqvist</data>
+  </node>
+  <node id="anttimikkola">
+    <data key="key0">ANTTI MIKKOLA</data>
+  </node>
+  <node id="edouardcelli">
+    <data key="key0">Edouard Celli</data>
+  </node>
+  <node id="kallekiipula">
+    <data key="key0">Kalle Kiipula</data>
+  </node>
+  <node id="birgerhalia">
+    <data key="key0">Birger Halia</data>
+  </node>
+  <node id="helenabraatz">
+    <data key="key0">Helena Braatz</data>
+  </node>
+  <node id="arnoldnapoleoneklund">
+    <data key="key0">Arnold Napoleon Eklund</data>
+  </node>
+  <node id="hilmaräsänen">
+    <data key="key0">Hilma Räsänen</data>
+  </node>
+  <node id="heikkikiiskinen">
+    <data key="key0">Heikki Kiiskinen</data>
+  </node>
+  <node id="kustavigrotenjelt">
+    <data key="key0">Kustavi Grotenjelt</data>
+  </node>
+  <node id="josefhymander">
+    <data key="key0">Josef Hymander</data>
+  </node>
+  <node id="aaroväänänen">
+    <data key="key0">Aaro Väänänen</data>
+  </node>
+  <node id="sigurdrosenberg">
+    <data key="key0">Sigurd Rosenberg</data>
+  </node>
+  <node id="ludelatonr">
+    <data key="key0">Lude Latonr</data>
+  </node>
+  <node id="aukustisimelius">
+    <data key="key0">Aukusti Simelius</data>
+  </node>
+  <node id="erikleander">
+    <data key="key0">Erik Leander</data>
+  </node>
+  <node id="aarnikouta">
+    <data key="key0">Aarni Kouta</data>
+  </node>
+  <node id="karlekman">
+    <data key="key0">Karl Ekman</data>
+  </node>
+  <node id="aditikkanen">
+    <data key="key0">Adi Tikkanen</data>
+  </node>
+  <node id="hildaseppä">
+    <data key="key0">Hilda Seppä</data>
+  </node>
+  <node id="hjalmarekholm">
+    <data key="key0">Hjalmar Ekholm</data>
+  </node>
+  <node id="hugosimberg">
+    <data key="key0">Hugo Simberg</data>
+  </node>
+  <node id="kaarlobrofeldt">
+    <data key="key0">Kaarlo Brofeldt</data>
+  </node>
+  <node id="sofiasjeblad">
+    <data key="key0">Sofia Sjöblad</data>
+  </node>
+  <node id="hansestlander">
+    <data key="key0">Hans Estlander</data>
+  </node>
+  <node id="johnpettersson">
+    <data key="key0">John Pettersson</data>
+  </node>
+  <node id="ainoliipola">
+    <data key="key0">Aino Liipola</data>
+  </node>
+  <node id="annalarsson">
+    <data key="key0">Anna Larsson</data>
+  </node>
+  <node id="anttieronen">
+    <data key="key0">Antti Eronen</data>
+  </node>
+  <node id="elielsaarinen">
+    <data key="key0">Eliel Saarinen</data>
+  </node>
+  <node id="ossianfohstrem">
+    <data key="key0">Ossian Fohström</data>
+  </node>
+  <node id="onnitalas">
+    <data key="key0">Onni Talas</data>
+  </node>
+  <node id="knuthamsun">
+    <data key="key0">Knut Hamsun</data>
+  </node>
+  <node id="fransstockmann">
+    <data key="key0">Frans Stockmann</data>
+  </node>
+  <node id="gerdalind">
+    <data key="key0">Gerda Lind</data>
+  </node>
+  <node id="juhomyller">
+    <data key="key0">Juho Myller</data>
+  </node>
+  <node id="nilsnorell">
+    <data key="key0">NILS NORELL</data>
+  </node>
+  <node id="hkokko">
+    <data key="key0">H. Kokko</data>
+  </node>
+  <node id="kasperrenstrem">
+    <data key="key0">Kasper Renström</data>
+  </node>
+  <node id="pehroadd">
+    <data key="key0">Pehr Oadd</data>
+  </node>
+  <node id="ingaheine">
+    <data key="key0">Inga Heine</data>
+  </node>
+  <node id="leotolstoi">
+    <data key="key0">Leo Tolstoi</data>
+  </node>
+  <node id="evelenelola">
+    <data key="key0">Evelene Lola</data>
+  </node>
+  <node id="emilorädd">
+    <data key="key0">Emil Orädd</data>
+  </node>
+  <node id="ottowrede">
+    <data key="key0">Otto Wrede</data>
+  </node>
+  <node id="mikkoknuutila">
+    <data key="key0">Mikko Knuutila</data>
+  </node>
+  <node id="anttijokinen">
+    <data key="key0">Antti Jokinen</data>
+  </node>
+  <node id="annaahlfors">
+    <data key="key0">Anna Ahlfors</data>
+  </node>
+  <node id="elinelmgren">
+    <data key="key0">Elin Elmgren</data>
+  </node>
+  <node id="georgewashington">
+    <data key="key0">George Washington</data>
+  </node>
+  <node id="larskrogius">
+    <data key="key0">Lars Krogius</data>
+  </node>
+  <node id="oskarhaka">
+    <data key="key0">Oskar Haka</data>
+  </node>
+  <node id="ilmarikrohn">
+    <data key="key0">Ilmari Krohn</data>
+  </node>
+  <node id="wsederhjelm">
+    <data key="key0">W. Söderhjelm</data>
+  </node>
+  <node id="ernstlampen">
+    <data key="key0">Ernst Lampén</data>
+  </node>
+  <node id="victorek">
+    <data key="key0">Victor Ek</data>
+  </node>
+  <node id="mikaelnyberg">
+    <data key="key0">Mikael Nyberg</data>
+  </node>
+  <node id="arturkrook">
+    <data key="key0">Artur Krook</data>
+  </node>
+  <node id="hildaflodin">
+    <data key="key0">Hilda Flodin</data>
+  </node>
+  <node id="kunoalithan">
+    <data key="key0">KUNO ALITHAN</data>
+  </node>
+  <node id="kaarlotuuli">
+    <data key="key0">Kaarlo Tuuli</data>
+  </node>
+  <node id="juhanileppälä">
+    <data key="key0">Juhani Leppälä</data>
+  </node>
+  <node id="leofuntek">
+    <data key="key0">Leo Funtek</data>
+  </node>
+  <node id="estenelfving">
+    <data key="key0">Östen Elfving</data>
+  </node>
+  <node id="arnolund">
+    <data key="key0">Arno Lund</data>
+  </node>
+  <node id="gunnarlandtman">
+    <data key="key0">Gunnar Landtman</data>
+  </node>
+  <node id="heinrichvon">
+    <data key="key0">Heinrich von</data>
+  </node>
+  <node id="harryalthoff">
+    <data key="key0">Harry Althoff</data>
+  </node>
+  <node id="arvidjärnefelt">
+    <data key="key0">ARVID JÄRNEFELT</data>
+  </node>
+  <node id="fritzwiik">
+    <data key="key0">Fritz Wiik</data>
+  </node>
+  <node id="ebbagisico">
+    <data key="key0">Ebba Gisico</data>
+  </node>
+  <node id="wernerlindbohm">
+    <data key="key0">Werner Lindbohm</data>
+  </node>
+  <node id="samulipaulaharju">
+    <data key="key0">Samuli Paulaharju</data>
+  </node>
+  <node id="hlindroos">
+    <data key="key0">H. Lindroos</data>
+  </node>
+  <node id="georgestlander">
+    <data key="key0">Georg Estlander</data>
+  </node>
+  <node id="ityyskä">
+    <data key="key0">I. Tyyskä</data>
+  </node>
+  <node id="alekskoho">
+    <data key="key0">Aleks Koho</data>
+  </node>
+  <node id="filipgrenvall">
+    <data key="key0">Filip Grönvall</data>
+  </node>
+  <node id="wernerpalmroth">
+    <data key="key0">Werner Palmroth</data>
+  </node>
+  <node id="oskarirntaneil">
+    <data key="key0">Oskari RntaneiL</data>
+  </node>
+  <node id="niilohelander">
+    <data key="key0">Niilo Helander</data>
+  </node>
+  <node id="allinissinen">
+    <data key="key0">Alli Nissinen</data>
+  </node>
+  <node id="annalisapettersson">
+    <data key="key0">Anna-Lisa Pettersson</data>
+  </node>
+  <node id="juhonestornurmi">
+    <data key="key0">Juho Nestor Nurmi</data>
+  </node>
+  <node id="irenemendelin">
+    <data key="key0">Irene Mendelin</data>
+  </node>
+  <node id="axelf">
+    <data key="key0">Axel F.</data>
+  </node>
+  <node id="lucreziaborg">
+    <data key="key0">Lucrezia Borg</data>
+  </node>
+  <node id="viktorekroos">
+    <data key="key0">Viktor Ekroos</data>
+  </node>
+  <node id="albertedelfelt">
+    <data key="key0">Albert Edelfelt</data>
+  </node>
+  <node id="georgjensen">
+    <data key="key0">Georg Jensen</data>
+  </node>
+  <node id="augustameriläinen">
+    <data key="key0">Augusta Meriläinen</data>
+  </node>
+  <node id="karlgahnstrem">
+    <data key="key0">Karl Gahnström</data>
+  </node>
+  <node id="alexisgripenberg">
+    <data key="key0">Alexis Gripenberg</data>
+  </node>
+  <node id="ossiansiven">
+    <data key="key0">Ossian Sivén</data>
+  </node>
+  <node id="maryvonhaartman">
+    <data key="key0">Mary von Haartman</data>
+  </node>
+  <node id="attemantere">
+    <data key="key0">Atte Mantere</data>
+  </node>
+  <node id="arnelund">
+    <data key="key0">Arne Lund</data>
+  </node>
+  <node id="helmisetälä">
+    <data key="key0">Helmi Setälä</data>
+  </node>
+  <node id="hilmaliima">
+    <data key="key0">Hilma Liima</data>
+  </node>
+  <node id="abrahamlincolnista">
+    <data key="key0">Abraham Lincolnista</data>
+  </node>
+  <node id="omerikanto">
+    <data key="key0">O. Merikanto</data>
+  </node>
+  <node id="hildavanhala">
+    <data key="key0">Hilda Vanhala</data>
+  </node>
+  <node id="hildalaine">
+    <data key="key0">Hilda Laine</data>
+  </node>
+  <node id="mikaeljohnsson">
+    <data key="key0">Mikael Johnsson</data>
+  </node>
+  <node id="fredrikcygnaeus">
+    <data key="key0">Fredrik Cygnaeus</data>
+  </node>
+  <node id="anniswan">
+    <data key="key0">Anni Swan</data>
+  </node>
+  <node id="ernstnordstremille">
+    <data key="key0">Ernst Nordströmille</data>
+  </node>
+  <node id="jrelander">
+    <data key="key0">J. Relander</data>
+  </node>
+  <node id="signeberg">
+    <data key="key0">Signe Berg</data>
+  </node>
+  <node id="magnusenckell">
+    <data key="key0">Magnus Enckell</data>
+  </node>
+  <node id="oskarhakulm">
+    <data key="key0">Oskar Hakulm</data>
+  </node>
+  <node id="eeroalpi">
+    <data key="key0">Eero Alpi</data>
+  </node>
+  <node id="larssonck">
+    <data key="key0">Lars Sonck</data>
+  </node>
+  <node id="marcelcasadesus">
+    <data key="key0">Marcel Casadesus</data>
+  </node>
+  <node id="eeroerkko">
+    <data key="key0">Eero Erkko</data>
+  </node>
+  <node id="kaarlehalme">
+    <data key="key0">Kaarle Halme</data>
+  </node>
+  <node id="amaliazimmermann">
+    <data key="key0">Amalia Zimmermann</data>
+  </node>
+  <node id="johannesgummerus">
+    <data key="key0">Johannes Gummerus</data>
+  </node>
+  <node id="birgerhallman">
+    <data key="key0">Birger Hallman</data>
+  </node>
+  <node id="henricasadesus">
+    <data key="key0">Henri Casadesus</data>
+  </node>
+  <node id="miinahuttunen">
+    <data key="key0">Miina Huttunen</data>
+  </node>
+  <node id="esterlindholm">
+    <data key="key0">Ester Lindholm</data>
+  </node>
+  <node id="knutsundman">
+    <data key="key0">Knut Sundman</data>
+  </node>
+  <node id="hemmokallio">
+    <data key="key0">Hemmo Kallio</data>
+  </node>
+  <node id="viviruotsalainen">
+    <data key="key0">Vivi Ruotsalainen</data>
+  </node>
+  <node id="ragnarkramer">
+    <data key="key0">Ragnar Kramer</data>
+  </node>
+  <node id="herkko">
+    <data key="key0">H. Erkko</data>
+  </node>
+  <node id="mattipieti">
+    <data key="key0">Matti Pieti</data>
+  </node>
+  <node id="wilhelmrotta">
+    <data key="key0">Wilhelm Rotta</data>
+  </node>
+  <node id="amaliakarlsson">
+    <data key="key0">Amalia Karlsson</data>
+  </node>
+  <node id="t:rlelmgren">
+    <data key="key0">T:rl Elmgren</data>
+  </node>
+  <node id="ainokallas">
+    <data key="key0">Aino Kallas</data>
+  </node>
+  <node id="jonascastren">
+    <data key="key0">Jonas Castren</data>
+  </node>
+  <node id="ernstwrede">
+    <data key="key0">Ernst Wrede</data>
+  </node>
+  <node id="karlsaaristo">
+    <data key="key0">Karl Saaristo</data>
+  </node>
+  <node id="gustavawilhelmina">
+    <data key="key0">Gustava Wilhelmina</data>
+  </node>
+  <node id="armaslaunis">
+    <data key="key0">Armas Launis</data>
+  </node>
+  <node id="pekkapennanen">
+    <data key="key0">Pekka Pennanen</data>
+  </node>
+  <node id="severialanne">
+    <data key="key0">Severi Alanne</data>
+  </node>
+  <node id="sjeblomvaasa">
+    <data key="key0">Sjöblom Vaasa</data>
+  </node>
+  <node id="ernstnordstrem">
+    <data key="key0">Ernst Nordström</data>
+  </node>
+  <node id="juhosnellman">
+    <data key="key0">Juho Snellman</data>
+  </node>
+  <node id="marywoodallen">
+    <data key="key0">Mary Wood-Allen</data>
+  </node>
+  <node id="ernstborenius">
+    <data key="key0">Ernst Borenius</data>
+  </node>
+  <node id="w:mbeck">
+    <data key="key0">W:m Beck</data>
+  </node>
+  <node id="arturbergstrem">
+    <data key="key0">Artur Bergström</data>
+  </node>
+  <node id="andersdonner">
+    <data key="key0">Anders Donner</data>
+  </node>
+  <node id="akselalanderin">
+    <data key="key0">Aksel Alanderin</data>
+  </node>
+  <node id="aapostoli">
+    <data key="key0">A. Apostoli</data>
+  </node>
+  <node id="theodorstorm">
+    <data key="key0">THEODOR STORM</data>
+  </node>
+  <node id="antsraudjalg">
+    <data key="key0">Ants Raudjalg</data>
+  </node>
+  <node id="arvidgrenberg">
+    <data key="key0">Arvid Grönberg</data>
+  </node>
+  <node id="aleksiskivi">
+    <data key="key0">Aleksis Kivi</data>
+  </node>
+  <node id="alfredcasella">
+    <data key="key0">Alfred Casella</data>
+  </node>
+  <node id="hugolilius">
+    <data key="key0">Hugo Lilius</data>
+  </node>
+  <node id="augustraatikainen">
+    <data key="key0">August Raatikainen</data>
+  </node>
+  <node id="arthurlindfors">
+    <data key="key0">Arthur Lindfors</data>
+  </node>
+  <node id="karolinaeskelin">
+    <data key="key0">Karolina Eskelin</data>
+  </node>
+  <node id="johanjärwisen">
+    <data key="key0">Johan Järwisen</data>
+  </node>
+  <node id="oskarmerikanto">
+    <data key="key0">Oskar Merikanto</data>
+  </node>
+  <node id="ainokeinänen">
+    <data key="key0">Aino Keinänen</data>
+  </node>
+  <node id="sandratuupaisen">
+    <data key="key0">Sandra Tuupaisen</data>
+  </node>
+  <node id="eerohyvärinen">
+    <data key="key0">Eero Hyvärinen</data>
+  </node>
+  <node id="lucinahagman">
+    <data key="key0">Lucina Hagman</data>
+  </node>
+  <node id="juliettelind">
+    <data key="key0">Juliette Lind</data>
+  </node>
+  <node id="evalessmann">
+    <data key="key0">Eva Lessmann</data>
+  </node>
+  <node id="franslehtonen">
+    <data key="key0">Frans Lehtonen</data>
+  </node>
+  <node id="fredrikthuring">
+    <data key="key0">Fredrik Thuring</data>
+  </node>
+  <node id="hannaketo">
+    <data key="key0">Hanna Keto</data>
+  </node>
+  <node id="gestaschatelowitz">
+    <data key="key0">Gösta Schatelowitz</data>
+  </node>
+  <node id="yrjeweil">
+    <data key="key0">Yrjö Weil</data>
+  </node>
+  <node id="williamthuring">
+    <data key="key0">William Thuring</data>
+  </node>
+  <node id="vilhelmhackman">
+    <data key="key0">Vilhelm Hackman</data>
+  </node>
+  <node id="aojaperä">
+    <data key="key0">A. Ojaperä</data>
+  </node>
+  <node id="heikkimeriläinen">
+    <data key="key0">Heikki Meriläinen</data>
+  </node>
+  <node id="jaanarenty">
+    <data key="key0">Jaana Rönty</data>
+  </node>
+  <node id="hassede">
+    <data key="key0">Hasse de</data>
+  </node>
+  <node id="hildakäkikoski">
+    <data key="key0">Hilda Käkikoski</data>
+  </node>
+  <node id="akselcastren">
+    <data key="key0">Aksel Castren</data>
+  </node>
+  <node id="axelr">
+    <data key="key0">AXEL R.</data>
+  </node>
+  <node id="ernsthedman">
+    <data key="key0">Ernst Hedman</data>
+  </node>
+  <node id="marylundqvist">
+    <data key="key0">Mary Lundqvist</data>
+  </node>
+  <node id="neitih">
+    <data key="key0">Neiti H.</data>
+  </node>
+  <node id="hannasaikku">
+    <data key="key0">Hanna Saikku</data>
+  </node>
+  <node id="armasjärnefelt">
+    <data key="key0">Armas Järnefelt</data>
+  </node>
+  <node id="ellenborenius">
+    <data key="key0">Ellen Borenius</data>
+  </node>
+  <node id="niklasjärnefelt">
+    <data key="key0">Niklas Järnefelt</data>
+  </node>
+  <node id="sakaricastren">
+    <data key="key0">SAKARI CASTREN</data>
+  </node>
+  <node id="fredriksvuren">
+    <data key="key0">Fredrik Svuren</data>
+  </node>
+  <node id="oskarnakuikä">
+    <data key="key0">Oskar Nakuikä</data>
+  </node>
+  <node id="oskarhakulin">
+    <data key="key0">Oskar Hakulin</data>
+  </node>
+  <node id="annahjorth">
+    <data key="key0">Anna Hjorth</data>
+  </node>
+  <node id="walterherlin">
+    <data key="key0">Walter Herlin</data>
+  </node>
+  <node id="wilhelmkrag">
+    <data key="key0">Wilhelm Krag</data>
+  </node>
+  <node id="grenvall">
+    <data key="key0">G. Renvall</data>
+  </node>
+  <node id="emilgustafsson">
+    <data key="key0">Emil Gustafsson</data>
+  </node>
+  <node id="leoernrooth">
+    <data key="key0">Leo Ernrooth</data>
+  </node>
+  <node id="ingridandersson">
+    <data key="key0">Ingrid Andersson</data>
+  </node>
+  <node id="jalmarihäkkinen">
+    <data key="key0">Jalmari Häkkinen</data>
+  </node>
+  <node id="jeansibelius">
+    <data key="key0">Jean Sibelius</data>
+  </node>
+  <node id="helgehartman">
+    <data key="key0">Helge Hartman</data>
+  </node>
+  <node id="mattivirtanen">
+    <data key="key0">Matti Virtanen</data>
+  </node>
+  <node id="jarllindberg">
+    <data key="key0">Jarl Lindberg</data>
+  </node>
+  <node id="erkkimelartin">
+    <data key="key0">Erkki Melartin</data>
+  </node>
+  <node id="ottotanner">
+    <data key="key0">Otto Tanner</data>
+  </node>
+  <node id="axelcedercrentz">
+    <data key="key0">Axel Cedercrentz</data>
+  </node>
+  <node id="simokaario">
+    <data key="key0">Simo Kaario</data>
+  </node>
+  <node id="fernandasoretta">
+    <data key="key0">Fernanda Soretta</data>
+  </node>
+  <node id="georgschauman">
+    <data key="key0">Georg Schauman</data>
+  </node>
+  <node id="atlewilskman">
+    <data key="key0">Atle Wilskman</data>
+  </node>
+  <node id="arwilindroos">
+    <data key="key0">Arwi Lindroos</data>
+  </node>
+  <node id="wilhelmrot">
+    <data key="key0">Wilhelm Rot</data>
+  </node>
+  <node id="wilhelmbrummer">
+    <data key="key0">Wilhelm Brummer</data>
+  </node>
+  <node id="gestaenckell">
+    <data key="key0">Gösta Enckell</data>
+  </node>
+  <node id="alfredbackman">
+    <data key="key0">Alfred Backman</data>
+  </node>
+  <node id="juhooskarviljanen">
+    <data key="key0">Juho Oskar Viljanen</data>
+  </node>
+  <node id="marttibirckin">
+    <data key="key0">Martti Birckin</data>
+  </node>
+  <node id="alvarrenqvist">
+    <data key="key0">Alvar Renqvist</data>
+  </node>
+  <node id="einoleino">
+    <data key="key0">Eino Leino</data>
+  </node>
+  <node id="mattipesonen">
+    <data key="key0">Matti Pesonen</data>
+  </node>
+  <node id="ludelatour">
+    <data key="key0">Lude Latour</data>
+  </node>
+  <node id="martamoretti">
+    <data key="key0">Marta Moretti</data>
+  </node>
+  <node id="väinemeriläinen">
+    <data key="key0">Väinö Meriläinen</data>
+  </node>
+  <node id="albertveltheim">
+    <data key="key0">Albert Veltheim</data>
+  </node>
+  <node id="emilerikson">
+    <data key="key0">Emil Erikson</data>
+  </node>
+  <node id="laurituunainen">
+    <data key="key0">Lauri Tuunainen</data>
+  </node>
+  <node id="aluoma">
+    <data key="key0">A. Luoma</data>
+  </node>
+  <node id="jalmarihahl">
+    <data key="key0">Jalmari Hahl</data>
+  </node>
+  <node id="hellbergtoijala">
+    <data key="key0">Hellberg Toijala</data>
+  </node>
+  <node id="herraa">
+    <data key="key0">Herra A.</data>
+  </node>
+  <node id="santerialkio">
+    <data key="key0">Santeri Alkio</data>
+  </node>
+  <node id="gabriellelaulu">
+    <data key="key0">Gabrielle Laulu</data>
+  </node>
+  <node id="carlsederstrem">
+    <data key="key0">Carl Söderström</data>
+  </node>
+  <node id="alindfors">
+    <data key="key0">A. Lindfors</data>
+  </node>
+  <node id="juhaniaho">
+    <data key="key0">Juhani Aho</data>
+  </node>
+  <node id="stelladina">
+    <data key="key0">Stella Dina</data>
+  </node>
+  <node id="alunden">
+    <data key="key0">A. Lunden</data>
+  </node>
+  <node id="jussisnellman">
+    <data key="key0">Jussi Snellman</data>
+  </node>
+  <node id="wikestremturo">
+    <data key="key0">Wikeström Turo</data>
+  </node>
+  <node id="wernersederhjelm">
+    <data key="key0">Werner Söderhjelm</data>
+  </node>
+  <node id="maurihartea">
+    <data key="key0">Mauri Hartea</data>
+  </node>
+  <node id="tuomasreinikainen">
+    <data key="key0">Tuomas Reinikainen</data>
+  </node>
+  <node id="helgeharthan">
+    <data key="key0">HELGE HARTHAN</data>
+  </node>
+  <node id="attefranck">
+    <data key="key0">Atte Franck</data>
+  </node>
+  <node id="marianiskanen">
+    <data key="key0">Maria Niskanen</data>
+  </node>
+  <node id="sakarisoinne">
+    <data key="key0">Sakari Soinne</data>
+  </node>
+  <node id="elinmali">
+    <data key="key0">Elin Mali</data>
+  </node>
+  <node id="johnlamus">
+    <data key="key0">John Lamus</data>
+  </node>
+  <node id="t:rihans">
+    <data key="key0">T:ri Hans</data>
+  </node>
+  <node id="santeriingman">
+    <data key="key0">Santeri Ingman</data>
+  </node>
+  <node id="kunoalfthan">
+    <data key="key0">KUNO ALFTHAN</data>
+  </node>
+  <node id="pehrgadd">
+    <data key="key0">Pehr Gadd</data>
+  </node>
+  <node id="evertsuonio">
+    <data key="key0">Evert Suonio</data>
+  </node>
+  <node id="johanneslundson">
+    <data key="key0">Johannes Lundson</data>
+  </node>
+  <node id="fredrikcygnaeuksesta">
+    <data key="key0">Fredrik Cygnaeuksesta</data>
+  </node>
+  <node id="axelparviainen">
+    <data key="key0">Axel Parviainen</data>
+  </node>
+  <node id="hildaherrala">
+    <data key="key0">Hilda Herrala</data>
+  </node>
+  <node id="jarlhagelstam">
+    <data key="key0">Jarl Hagelstam</data>
+  </node>
+  <node id="georgsegerstrålen">
+    <data key="key0">Georg Segerstrålen</data>
+  </node>
+  <node id="omantere">
+    <data key="key0">O. Mantere</data>
+  </node>
+  <node id="juholaitinen">
+    <data key="key0">Juho Laitinen</data>
+  </node>
+  <node id="alexisgripen">
+    <data key="key0">Alexis Gripen</data>
+  </node>
+  <node id="auguststrindberg">
+    <data key="key0">August Strindberg</data>
+  </node>
+  <node id="lydiajoki">
+    <data key="key0">Lydia Joki</data>
+  </node>
+  <node id="kalleriikola">
+    <data key="key0">Kalle Riikola</data>
+  </node>
+  <node id="matildavontroil">
+    <data key="key0">Matilda von Troil</data>
+  </node>
+  <node id="matildavon">
+    <data key="key0">Matilda von</data>
+  </node>
+  <node id="jalokalima">
+    <data key="key0">Jalo Kalima</data>
+  </node>
+  <node id="yrjeveijola">
+    <data key="key0">Yrjö Veijola</data>
+  </node>
+  <node id="arturalli">
+    <data key="key0">ARTUR ALLI</data>
+  </node>
+  <node id="ellalilius">
+    <data key="key0">Ella Lilius</data>
+  </node>
+  <node id="berthacorander">
+    <data key="key0">Bertha Corander</data>
+  </node>
+  <node id="agnesposchner">
+    <data key="key0">Agnes Poschner</data>
+  </node>
+  <node id="rudolfjack">
+    <data key="key0">Rudolf Jack</data>
+  </node>
+  <node id="valborgflorstrem">
+    <data key="key0">Valborg Florström</data>
+  </node>
+  <node id="t:rie">
+    <data key="key0">T:ri E.</data>
+  </node>
+  <node id="sigridlindberg">
+    <data key="key0">Sigrid Lindberg</data>
+  </node>
+  <node id="emmataltzman">
+    <data key="key0">Emma Taltzman</data>
+  </node>
+  <node id="axelcedercreutz">
+    <data key="key0">Axel Cedercreutz</data>
+  </node>
+  <node id="oscarcarlsson">
+    <data key="key0">Oscar Carlsson</data>
+  </node>
+  <node id="armaslindgren">
+    <data key="key0">Armas Lindgren</data>
+  </node>
+  <node id="wilhoreima">
+    <data key="key0">Wilho Reima</data>
+  </node>
+  <node id="helenaslrkln">
+    <data key="key0">Helena Slrkln</data>
+  </node>
+  <node id="irenerenvall">
+    <data key="key0">Irene Renvall</data>
+  </node>
+  <node id="axelgallen">
+    <data key="key0">Axel Gallen</data>
+  </node>
+  <node id="eerojärnefelt">
+    <data key="key0">Eero Järnefelt</data>
+  </node>
+  <node id="erikbyman">
+    <data key="key0">Erik Byman</data>
+  </node>
+  <node id="ottokarhi">
+    <data key="key0">Otto Karhi</data>
+  </node>
+  <node id="jvellman">
+    <data key="key0">J. Vellman</data>
+  </node>
+  <node id="johngrenman">
+    <data key="key0">John Grenman</data>
+  </node>
+  <node id="editcajander">
+    <data key="key0">Edit Cajander</data>
+  </node>
+  <node id="viktorahlbercin">
+    <data key="key0">Viktor Ahlbercin</data>
+  </node>
+  <node id="ainoniemelä">
+    <data key="key0">Aino Niemelä</data>
+  </node>
+  <node id="asianajajaernst">
+    <data key="key0">Asianajaja Ernst</data>
+  </node>
+  <node id="oskarhakuikä">
+    <data key="key0">Oskar Hakuikä</data>
+  </node>
+  <!--edges-->
+  <edge id="e0" source="ellinoringman" target="emmataltzman">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e1" source="harryalthoff" target="jonascastren">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e2" source="ingeborgmaria" target="theodorstorm">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e3" source="hugosimberg" target="magnusenckell">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e4" source="axelf" target="larskrogius">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e5" source="axelf" target="helenaslrkln">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e6" source="amaliazimmermann" target="viktorahlbercin">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e7" source="amaliazimmermann" target="marianiskanen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e8" source="ainokeinänen" target="esterlindholm">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e9" source="ainokeinänen" target="ellenborenius">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e10" source="ainokeinänen" target="emmataltzman">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e11" source="axelr" target="neitih">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e12" source="helgehartman" target="kunoalithan">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e13" source="alunden" target="eljungberg">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e14" source="axelcedercreutz" target="ellenahlqvist">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e15" source="ottokarhi" target="santerialkio">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e16" source="elinelmgren" target="karolinaeskelln">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e17" source="alexisgripen" target="georgestlander">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e18" source="heinrichvon" target="irenemendelin">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e19" source="annalisapettersson" target="emilgustafsson">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e20" source="alindfors" target="niklasjärnefelt">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e21" source="ludelatour" target="stelladina">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e22" source="editcajander" target="elinmali">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e23" source="erkkikivijärvi" target="leofuntek">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e24" source="edouardcelli" target="marcelcasadesus">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e25" source="fransstockmann" target="karlgahnstrem">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e26" source="fransstockmann" target="ragnarkramer">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e27" source="victorek" target="viktorekroos">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e28" source="arturbergstrem" target="karlsaaristo">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e29" source="arturbergstrem" target="juhonestornurmi">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e30" source="attemantere" target="hildaherrala">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e31" source="johanjärwisen" target="juhonestornurmi">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e32" source="anttijokinen" target="arnoldnapoleoneklund">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e33" source="grenvall" target="kaupunginlääkäriernfr">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e34" source="abrahamlincolnista" target="georgewashington">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e35" source="abrahamlincolnista" target="fredriksvuren">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e36" source="atlewilskman" target="ernstlampen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e37" source="jarlhagelstam" target="larssonck">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e38" source="elielmattila" target="erikbyman">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e39" source="onnitalas" target="robertkajanus">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e40" source="onnitalas" target="selimpalmgren">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e41" source="ityyskä" target="samulipaulaharju">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e42" source="alfredbackman" target="birgerhallman">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e43" source="eeroalpi" target="kaarlehalme">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e44" source="johannesgummerus" target="wernersederhjelm">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e45" source="anttieronen" target="mattiahola">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e46" source="anttieronen" target="marianiskanen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e47" source="ainokallas" target="ilonajalava">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e48" source="lucinahagman" target="omantere">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e49" source="lucinahagman" target="oskarimantere">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e50" source="ernstwrede" target="ossiansiven">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e51" source="heikkimeriläinen" target="santeriingman">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e52" source="heikkimeriläinen" target="juhaniaho">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e53" source="axelparviainen" target="tuomasreinikainen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e54" source="hugokarsten" target="rafaelkarsten">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e55" source="johnlamas" target="sigurdrosenberg">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e56" source="kallekiipula" target="sofiasjeblad">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e57" source="heikkikiiskinen" target="juhanileppälä">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e58" source="heikkikiiskinen" target="santerialkio">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e59" source="ludelatonr" target="w:mbeck">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e60" source="ludelatonr" target="stelladina">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e61" source="amaliakarlsson" target="mattivirtanen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e62" source="gestaschatelowitz" target="juhooskarviljanen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e63" source="gestaschatelowitz" target="selimpalmgren">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e64" source="evalessmann" target="robertkajanus">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e65" source="hannaketo" target="hildaseppä">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e66" source="marttibirckin" target="wilhelmkrag">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e67" source="laurituunainen" target="ottokarhi">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e68" source="johnlamus" target="niklasjärnefelt">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e69" source="johanneslundson" target="wernerpalmroth">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e70" source="ellalilius" target="johnpettersson">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e71" source="eerojärnefelt" target="ernstnordstrem">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e72" source="eerojärnefelt" target="georgschauman">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e73" source="eerojärnefelt" target="wsederhjelm">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e74" source="eerojärnefelt" target="magnusenckell">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e75" source="eerojärnefelt" target="johannesgummerus">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e76" source="eerokilpi" target="jussisnellman">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e77" source="helenabraatz" target="marylundqvist">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e78" source="helenabraatz" target="martamoretti">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e79" source="arnoldnapoleoneklund" target="karlsaaristo">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e80" source="arnoldnapoleoneklund" target="juhonestornurmi">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e81" source="arnoldnapoleoneklund" target="arturbergstrem">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e82" source="emilorädd" target="juholepiste">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e83" source="arvidjärnefelt" target="leotolstoi">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e84" source="filipgrenvall" target="yrjeweil">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e85" source="andersdonner" target="ernstborenius">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e86" source="gestaenckell" target="jarllindberg">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e87" source="arthurlindfors" target="arwilindroos">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e88" source="jalokalima" target="leotolstoi">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e89" source="henrikfilppula" target="kasperrenstrem">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e90" source="henrikfilppula" target="karlsaaristo">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e91" source="juhanileppälä" target="kyestikallio">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e92" source="juhanileppälä" target="santerialkio">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e93" source="juhanileppälä" target="laurituunainen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e94" source="juhanileppälä" target="ottokarhi">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e95" source="hlindroos" target="ottowrede">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e96" source="allinissinen" target="gustafniklander">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e97" source="allinissinen" target="jonascastren">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e98" source="allinissinen" target="eerohyvärinen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e99" source="antsraudjalg" target="hiljahaahti">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e100" source="armaslaunis" target="ilmarikrohn">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e101" source="aluoma" target="jonascastren">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e102" source="jalmarihahl" target="robertkajanus">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e103" source="jalmarihahl" target="ossianfohstrem">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e104" source="estenelfving" target="hannesnylander">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e105" source="aarnikouta" target="onnitalas">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e106" source="aarnikouta" target="robertkajanus">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e107" source="aarnikouta" target="selimpalmgren">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e108" source="aarnikouta" target="einoleino">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e109" source="juhomyller" target="sandratuupaisen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e110" source="leofuntek" target="robertkajanus">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e111" source="gunnarlandtman" target="rafaelkarsten">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e112" source="gunnarlandtman" target="hugokarsten">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e113" source="karlgahnstrem" target="ragnarkramer">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e114" source="arnelund" target="niklasjärnefelt">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e115" source="arnelund" target="johnlamas">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e116" source="helmisetälä" target="kustavigrotenjelt">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e117" source="helmisetälä" target="herkko">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e118" source="emilgustafsson" target="maurihartea">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e119" source="annaahlfors" target="valborgflorstrem">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e120" source="annaahlfors" target="ebbagisico">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e121" source="fredriksvuren" target="georgewashington">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e122" source="allanserlachius" target="georgestlander">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e123" source="kyestikallio" target="santerialkio">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e124" source="kyestikallio" target="laurituunainen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e125" source="naemaericson" target="t:rlelmgren">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e126" source="georgestlander" target="ottohyyry">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e127" source="hildalaine" target="hildavanhala">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e128" source="anniswan" target="kustavigrotenjelt">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e129" source="anniswan" target="hiljahaahti">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e130" source="anniswan" target="bjernstjernebjernsonin">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e131" source="anniswan" target="herkko">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e132" source="juhonestornurmi" target="karlsaaristo">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e133" source="ernstborenius" target="mikaeljohnsson">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e134" source="ernstborenius" target="jrelander">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e135" source="erkkimelartin" target="ossianfohstrem">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e136" source="mattipesonen" target="mikkoknuutila">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e137" source="hilmaräsänen" target="ottokarhi">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e138" source="hilmaräsänen" target="santerialkio">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e139" source="hilmaräsänen" target="wilhoreima">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e140" source="hilmaräsänen" target="juhanileppälä">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e141" source="hilmaräsänen" target="oanttila">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e142" source="attefranck" target="t:rihans">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e143" source="axelholmstrem" target="oskarnakuikä">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e144" source="axelholmstrem" target="georgestlander">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e145" source="aukustihiltula" target="mikkoknuutila">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e146" source="robertkajanus" target="sigridlindberg">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e147" source="robertkajanus" target="selimpalmgren">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e148" source="fritzoeitlin" target="maryvonhaartman">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e149" source="fritzoeitlin" target="niilohelander">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e150" source="sjeblomvaasa" target="wikestremturo">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e151" source="anttimikkola" target="pekkaleppänen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e152" source="anttimikkola" target="eeroerkko">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e153" source="auguststrindberg" target="knuthamsun">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e154" source="franslehtonen" target="kalleriikola">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e155" source="ainoliipola" target="mandihytenen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e156" source="karolinaeskelln" target="naemaericson">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e157" source="fredrikcygnaeuksesta" target="fredrikcygnaeus">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e158" source="fredrikcygnaeuksesta" target="yrjeveijola">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e159" source="fredrikcygnaeuksesta" target="ilonajalava">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e160" source="ernstlampen" target="wernerlindbohm">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e161" source="alexisgripenberg" target="oskarmerikanto">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e162" source="karlsaaristo" target="kasperrenstrem">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e163" source="hassede" target="marcelcasadesus">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e164" source="hannasaikku" target="jalmarihäkkinen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e165" source="juhaniaho" target="niklasjärnefelt">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e166" source="eeroerkko" target="jonascastren">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e167" source="eeroerkko" target="leoernrooth">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e168" source="augustramsay" target="hjalmarekholm">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e169" source="juholepiste" target="justusripatti">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e170" source="josefhymander" target="sakarisoinne">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e171" source="aditikkanen" target="miinahuttunen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e172" source="ilmarikrohn" target="mikaelnyberg">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e173" source="jonascastren" target="pekkaleppänen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e174" source="jonascastren" target="juhosnellman">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e175" source="jonascastren" target="juhaniaho">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e176" source="jonascastren" target="pekkapennanen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e177" source="herkko" target="kustavigrotenjelt">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e178" source="herkko" target="hiljahaahti">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e179" source="armasjärnefelt" target="einoleino">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e180" source="armasjärnefelt" target="jeansibelius">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e181" source="axelcedercrentz" target="naemaericson">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e182" source="juhosnellman" target="mattipesonen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e183" source="juhosnellman" target="mikkoknuutila">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e184" source="marywoodallen" target="yrjeweil">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e185" source="augustraatikainen" target="heikkikiiskinen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e186" source="augustraatikainen" target="kyestikallio">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e187" source="augustraatikainen" target="ottokarhi">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e188" source="einoleino" target="onnitalas">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e189" source="einoleino" target="jalmarihahl">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e190" source="einoleino" target="hellbergtoijala">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e191" source="einoleino" target="selimpalmgren">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e192" source="einoleino" target="helmisetälä">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e193" source="einoleino" target="hilmaliima">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e194" source="einoleino" target="kaarlehalme">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e195" source="einoleino" target="erkkimelartin">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e196" source="erikalovisaforsgrenille" target="gustavawilhelmina">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e197" source="erikalovisaforsgrenille" target="johannaconstance">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e198" source="erikalovisaforsgrenille" target="klaraerikavikstrem">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e199" source="alexanderfrey" target="oskarirntaneil">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e200" source="mikkoknuutila" target="pekkaleppänen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e201" source="albertedelfelt" target="axelgallen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e202" source="albertedelfelt" target="eerojärnefelt">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e203" source="albertedelfelt" target="ilonajalava">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e204" source="albertedelfelt" target="fredrikcygnaeuksesta">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e205" source="albertedelfelt" target="yrjeveijola">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e206" source="augustameriläinen" target="väinemeriläinen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e207" source="ernstnordstremille" target="severialanne">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e208" source="gabriellelaulu" target="juliettelind">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e209" source="ilonajalava" target="yrjeveijola">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e210" source="bjernstjernebjernsonin" target="hiljahaahti">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e211" source="bjernstjernebjernsonin" target="herkko">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e212" source="bjernstjernebjernsonin" target="kustavigrotenjelt">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e213" source="bjernstjernebjernsonin" target="helmisetälä">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e214" source="aaroväänänen" target="juhosnellman">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e215" source="aukustisimelius" target="helmiselin">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e216" source="emilerikson" target="marianiskanen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e217" source="ainoniemelä" target="signeberg">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e218" source="johannesbrofeldt" target="wilhelmrot">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e219" source="johannesbrofeldt" target="ottotanner">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e220" source="ainaartukka" target="hannasaikku">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e221" source="ainaartukka" target="jalmarihäkkinen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e222" source="hiljahaahti" target="kustavigrotenjelt">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e223" source="larskrogius" target="oskarhakuikä">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e224" source="niklasjärnefelt" target="rudolfjack">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e225" source="niklasjärnefelt" target="sigurdrosenberg">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e226" source="akselalanderin" target="arturalli">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e227" source="akselcastren" target="sakaricastren">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e228" source="hildakäkikoski" target="wilhoreima">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e229" source="armaslindgren" target="elielsaarinen">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e230" source="juholaitinen" target="juhosnellman">
+    <data key="key1">2.0</data>
+  </edge>
+  <edge id="e231" source="pekkaleppänen" target="pekkapennanen">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e232" source="ingaheine" target="leotolstoi">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e233" source="kaarlehalme" target="simokaario">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e234" source="amaliazimmermann" target="emilerikson">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e235" source="ainokeinänen" target="ellinoringman">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e236" source="alunden" target="ernsthedman">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e237" source="irenerenvall" target="karlekman">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e238" source="einorautavaara" target="robertkajanus">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e239" source="elinelmgren" target="karolinaeskelin">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e240" source="ludelatour" target="w:mbeck">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e241" source="arturkrook" target="karolinaeskelin">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e242" source="ainojoki" target="lydiajoki">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e243" source="fritzwiik" target="johannesbrofeldt">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e244" source="teodormunck" target="wilhelmbrummer">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e245" source="atlewilskman" target="wernerlindbohm">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e246" source="herraa" target="johnpettersson">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e247" source="anttieronen" target="kaarlotuuli">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e248" source="ainokallas" target="antsraudjalg">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e249" source="ainokallas" target="hiljahaahti">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e250" source="heikkikiiskinen" target="ottokarhi">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e251" source="heikkikiiskinen" target="kyestikallio">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e252" source="ellalilius" target="herraa">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e253" source="gestaenckell" target="pehroadd">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e254" source="gerdalind" target="karlekman">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e255" source="gerdalind" target="irenerenvall">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e256" source="idaekman" target="karlekman">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e257" source="helmisetälä" target="hiljahaahti">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e258" source="mattipieti" target="vilhelmhackman">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e259" source="arvidgrenberg" target="elielmattila">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e260" source="arvidgrenberg" target="erikbyman">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e261" source="juhooskarviljanen" target="selimpalmgren">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e262" source="alekskoho" target="carllindvall">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e263" source="alekskoho" target="mattipieti">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e264" source="alekskoho" target="vilhelmhackman">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e265" source="alfredcasella" target="edouardcelli">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e266" source="walterherlin" target="wernerlindbohm">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e267" source="axelholmstrem" target="oskarhaka">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e268" source="axelholmstrem" target="oskarhakulm">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e269" source="asianajajaernst" target="johngrenman">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e270" source="carllindvall" target="mattipieti">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e271" source="carllindvall" target="vilhelmhackman">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e272" source="georgschauman" target="wernersederhjelm">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e273" source="ernstlampen" target="walterherlin">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e274" source="juhaniaho" target="santeriingman">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e275" source="jonascastren" target="lucinahagman">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e276" source="armasjärnefelt" target="selimpalmgren">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e277" source="armasjärnefelt" target="berthacorander">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e278" source="carlsederstrem" target="ingridandersson">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e279" source="hildaflodin" target="magnusenckell">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e280" source="erikleander" target="johannesjohansson">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e281" source="alvarrenqvist" target="augustramsay">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e282" source="alvarrenqvist" target="lennartcajander">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e283" source="einoleino" target="juhaniaho">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e284" source="einoleino" target="robertkajanus">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e285" source="einoleino" target="jaanarenty">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e286" source="jvellman" target="t:rie">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e287" source="marianiskanen" target="mattiahola">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e288" source="alfredholmstrem" target="kunoalfthan">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e289" source="axelgallen" target="magnusenckell">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e290" source="emilerikson" target="viktorahlbercin">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e291" source="albertveltheim" target="kaarlotuuli">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e292" source="niklasjärnefelt" target="victorek">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e293" source="juliettelind" target="viviruotsalainen">
+    <data key="key1">3.0</data>
+  </edge>
+  <edge id="e294" source="ellenahlqvist" target="naemaericson">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e295" source="ellenahlqvist" target="karolinaeskelin">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e296" source="hansestlander" target="knutsundman">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e297" source="elinelmgren" target="naemaericson">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e298" source="atlewilskman" target="walterherlin">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e299" source="arnolund" target="johnlamus">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e300" source="arnolund" target="sigurdrosenberg">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e301" source="georgsegerstrålen" target="kunoalfthan">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e302" source="georgsegerstrålen" target="helgeharthan">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e303" source="eerojärnefelt" target="wernersederhjelm">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e304" source="eerojärnefelt" target="hildaflodin">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e305" source="allinissinen" target="juhosnellman">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e306" source="matildavontroil" target="robertblomqvist">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e307" source="carlanton" target="fernandasoretta">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e308" source="annahjorth" target="armasjärnefelt">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e309" source="kyestikallio" target="ottokarhi">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e310" source="kaarlobrofeldt" target="mikaeljohnsson">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e311" source="aojaperä" target="hkokko">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e312" source="aojaperä" target="omerikanto">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e313" source="georgjensen" target="maryvonhaartman">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e314" source="georgjensen" target="niilohelander">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e315" source="juhaniaho" target="lucreziaborg">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e316" source="augustramsay" target="lennartcajander">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e317" source="jonascastren" target="mikkoknuutila">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e318" source="hkokko" target="omerikanto">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e319" source="axelcedercrentz" target="ellenahlqvist">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e320" source="alfredholmstrem" target="georgsegerstrålen">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e321" source="gabriellelaulu" target="viviruotsalainen">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e322" source="matildavon" target="robertblomqvist">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e323" source="albertveltheim" target="anttieronen">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e324" source="johannesbrofeldt" target="wilhelmrotta">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e325" source="agnesposchner" target="oskarmerikanto">
+    <data key="key1">4.0</data>
+  </edge>
+  <edge id="e326" source="helgehartman" target="kunoalfthan">
+    <data key="key1">5.0</data>
+  </edge>
+  <edge id="e327" source="einorautavaara" target="evalessmann">
+    <data key="key1">5.0</data>
+  </edge>
+  <edge id="e328" source="maryvonhaartman" target="niilohelander">
+    <data key="key1">5.0</data>
+  </edge>
+  <edge id="e329" source="evertsuonio" target="wilhelmkrag">
+    <data key="key1">5.0</data>
+  </edge>
+  <edge id="e330" source="eerojärnefelt" target="hugosimberg">
+    <data key="key1">5.0</data>
+  </edge>
+  <edge id="e331" source="eljungberg" target="ernsthedman">
+    <data key="key1">5.0</data>
+  </edge>
+  <edge id="e332" source="anniswan" target="helmisetälä">
+    <data key="key1">5.0</data>
+  </edge>
+  <edge id="e333" source="erkkimelartin" target="jalmarihahl">
+    <data key="key1">5.0</data>
+  </edge>
+  <edge id="e334" source="axelholmstrem" target="oskarhakulin">
+    <data key="key1">5.0</data>
+  </edge>
+  <edge id="e335" source="stelladina" target="w:mbeck">
+    <data key="key1">5.0</data>
+  </edge>
+  <edge id="e336" source="alexanderfrey" target="asianajajaernst">
+    <data key="key1">5.0</data>
+  </edge>
+  <edge id="e337" source="alfredholmstrem" target="helgehartman">
+    <data key="key1">5.0</data>
+  </edge>
+  <edge id="e338" source="axelgallen" target="hugosimberg">
+    <data key="key1">5.0</data>
+  </edge>
+  <edge id="e339" source="axelgallen" target="hildaflodin">
+    <data key="key1">5.0</data>
+  </edge>
+  <edge id="e340" source="hjalmarsederberg" target="marttibirckin">
+    <data key="key1">6.0</data>
+  </edge>
+  <edge id="e341" source="carlanton" target="evelenelola">
+    <data key="key1">6.0</data>
+  </edge>
+  <edge id="e342" source="alfredcasella" target="henricasadesus">
+    <data key="key1">6.0</data>
+  </edge>
+  <edge id="e343" source="hildaflodin" target="hugosimberg">
+    <data key="key1">6.0</data>
+  </edge>
+  <edge id="e344" source="alexanderfrey" target="johngrenman">
+    <data key="key1">6.0</data>
+  </edge>
+  <edge id="e345" source="axelgallen" target="eerojärnefelt">
+    <data key="key1">6.0</data>
+  </edge>
+  <edge id="e346" source="hugolilius" target="nilsnorell">
+    <data key="key1">7.0</data>
+  </edge>
+  <edge id="e347" source="alfredcasella" target="marcelcasadesus">
+    <data key="key1">7.0</data>
+  </edge>
+  <edge id="e348" source="johannesbrofeldt" target="wilhelmrothen">
+    <data key="key1">7.0</data>
+  </edge>
+  <edge id="e349" source="annalarsson" target="fernandasoretta">
+    <data key="key1">8.0</data>
+  </edge>
+  <edge id="e350" source="henricasadesus" target="marcelcasadesus">
+    <data key="key1">8.0</data>
+  </edge>
+  <edge id="e351" source="karolinaeskelin" target="naemaericson">
+    <data key="key1">8.0</data>
+  </edge>
+  <edge id="e352" source="aleksiskivi" target="hemmokallio">
+    <data key="key1">9.0</data>
+  </edge>
+  <edge id="e353" source="fredrikthuring" target="williamthuring">
+    <data key="key1">9.0</data>
+  </edge>
+  <edge id="e354" source="alfredbackman" target="birgerhalia">
+    <data key="key1">11.0</data>
+  </edge>
+  <edge id="e355" source="annalarsson" target="carlanton">
+    <data key="key1">13.0</data>
+  </edge>
+  <edge id="e356" source="johnlamus" target="rudolfjack">
+    <data key="key1">16.0</data>
+  </edge>
+  <edge id="e357" source="gestaenckell" target="pehrgadd">
+    <data key="key1">16.0</data>
+  </edge>
+  <edge id="e358" source="rudolfjack" target="sigurdrosenberg">
+    <data key="key1">17.0</data>
+  </edge>
+  <edge id="e359" source="arnelund" target="johnlamus">
+    <data key="key1">18.0</data>
+  </edge>
+  <edge id="e360" source="arnelund" target="rudolfjack">
+    <data key="key1">18.0</data>
+  </edge>
+  <edge id="e361" source="fritzwiik" target="ottotanner">
+    <data key="key1">22.0</data>
+  </edge>
+  <edge id="e362" source="georgsegerstrålen" target="helgehartman">
+    <data key="key1">22.0</data>
+  </edge>
+  <edge id="e363" source="johnlamus" target="sigurdrosenberg">
+    <data key="key1">22.0</data>
+  </edge>
+  <edge id="e364" source="arnelund" target="sigurdrosenberg">
+    <data key="key1">22.0</data>
+  </edge>
+  <edge id="e365" source="allanserlachius" target="ottohyyry">
+    <data key="key1">24.0</data>
+  </edge>
+  <edge id="e366" source="aapostoli" target="oscarcarlsson">
+    <data key="key1">25.0</data>
+  </edge>
+  <edge id="e367" source="alexisgripenberg" target="georgestlander">
+    <data key="key1">43.0</data>
+  </edge>
+  <edge id="e368" source="axelholmstrem" target="oskarhakuikä">
+    <data key="key1">55.0</data>
+  </edge>
+</graphml>
