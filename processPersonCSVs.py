@@ -55,11 +55,7 @@ def main(infolder="persons/csv/", outfile=None):
                 if not rowkey in link_dct:
                     link_dct[rowkey]=[]
                 link_dct[rowkey].append(key)
-                
-    for d in dct:
-        print(dct[d])
-        #print("{}\t{}".format(dct[d]['name'], len(dct[d])))
-    
+        
     link_dct = dict((d, link_dct[d]) for d in link_dct if len(link_dct[d])>1)
     
     graph_dct = {}
@@ -77,7 +73,7 @@ def main(infolder="persons/csv/", outfile=None):
     res = []
     for x in graph_dct:
         for y in graph_dct[x]:
-            if 1<graph_dct[x][y] and graph_dct[x][y]<100:
+            if 1<graph_dct[x][y] and graph_dct[x][y]<1000:
                 x_label = dct[x]['name']
                 y_label = dct[y]['name']
                 res.append([x_label,y_label, graph_dct[x][y]])
@@ -109,6 +105,8 @@ def getKey(label):
         st = re.sub(r'[áàâ]','a',st)
         st = re.sub(r'[éèêë]','e',st)
         st = re.sub(r'[óòö]','e',st)
+        st = re.sub(r'W','V',st)
+        st = re.sub(r'w','v',st)
         return re.sub(r'[. -]','',st)
 
 def copyRow(row):
