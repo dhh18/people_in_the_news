@@ -38,7 +38,7 @@ def main():
                         dct[key]['district'] = dct_ke[key]['district']
                         
                     dct[key]['tags'].add(tag)
-                    
+    
     if outfile:
         csvfile = open(outfile, 'w', newline='', encoding="utf-8")
         csvwriter = csv.writer(csvfile, delimiter=DELIMITER,
