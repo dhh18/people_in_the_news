@@ -20,15 +20,18 @@ def getLocations(scvPath):
 	
 	return scv
 
-def makeMap(givenJson, givenCsv, filePath):
+def makeMap(givenJson, continentScv, countryScv, capitalScv, mittauslaitosScv, filePath):
 	path = givenJson
 
 	with open(path, "r", encoding="utf-8") as f:
 		data = json.load(f)
 		
 	res = {}
-	locations = getLocations(givenCsv)
-
+	continentLocations = getLocations(continentScv)
+	countryLocations = getLocations(countryScv)
+	capitalLocations = getLocations(capitalScv)
+	mittauslaitosLocations = getLocations(mittauslaitosScv)
+	
 	for row in data["kwic"]:
 		place_name = row['tokens'][1]['lemma']
 		issn = row['structs']['text_issue_title']
@@ -39,8 +42,11 @@ def makeMap(givenJson, givenCsv, filePath):
 		if place_name[0].islower():
 			continue
 		
-		if place_name not in locations:
-			continue
+		if place_name not in continentLocations:
+			if place_name not in countryLocations:
+				if place_name not in capitalLocations:
+					if place_name not in mittauslaitosLocations:
+						continue
 		
 		if issn not in res:
 			res[issn] = [place_name]
@@ -64,14 +70,30 @@ def makeMap(givenJson, givenCsv, filePath):
 			for place in places:
 				if place not in done:
 					done.append(place)
-					cords = locations[place]
+					cords = []
+					
+					if place in continentLocations:
+						cords = continentLocations[place]
+					else:
+						if place in countryLocations:
+							cords = countryLocations[place]
+						else:
+							if place in capitalLocations:
+								cords = capitalLocations[place]
+							else:
+								cords = mittauslaitosLocations[place]
+					
 					amount = counter[place]
 					
 					newStr = '"' + place + '","' + str(amount) + '","' + str(cords[0]) + '","' + str(cords[1])
 					f.write(newStr)
 
 if __name__ == "__main__":
-	cordsCsv = sys.argv[1]
+	continentScv = sys.argv[1]
+	countryScv = sys.argv[2]
+	capitalScv = sys.argv[3]
+	mittauslaitosScv = sys.argv[4]
+	
 	folder = os.listdir("data/")
 	
 	for folderName in folder:
@@ -86,7 +108,7 @@ if __name__ == "__main__":
 			
 			jsonPath = "data/"+folderName+"/"+file
 			newCsvMap = "csv/"+folderName+"/"+parse[0]+".csv"
-			makeMap(jsonPath, cordsCsv, newCsvMap)
+			makeMap(jsonPath, continentScv, countryScv, capitalScv, mittauslaitosScv, newCsvMap)
 
 
 
