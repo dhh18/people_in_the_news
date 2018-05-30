@@ -16,8 +16,8 @@ from platform import node
 
 DELIMITER = "\t"
 CONTEXT_IDS = ['text_publ_id', 'paragraph_id', 'text_issue_date']
-#    PYTHONIOENCODING='utf-8' python3 extract_personnames.py json/korp.json 
- 
+#    PYTHONIOENCODING="utf-8" python3 processPersonCSVs.py "persons/csv/Valvoja/189*/*" persons/graph_Valvoja_1890.csv
+
 def main(infolder="persons/csv/", outfile=None):
     
     def pairs(arr):
@@ -44,17 +44,18 @@ def main(infolder="persons/csv/", outfile=None):
             csvreader = csv.DictReader(csvfile, delimiter=DELIMITER)
             fields = csvreader.fieldnames
             for row in csvreader:
-                label = row['name']
-                key = getKey(label)
-                if not key in dct:
-                    dct[key] = {'name':row['name'], 'links':[], 'degree':0}
-                row2 = copyRow(row)
-                dct[key]['links'].append(row2)
-                
-                rowkey = hashRow(row)
-                if not rowkey in link_dct:
-                    link_dct[rowkey]=[]
-                link_dct[rowkey].append(key)
+                if 'name' in row:
+                    label = row['name']
+                    key = getKey(label)
+                    if not key in dct:
+                        dct[key] = {'name':row['name'], 'links':[], 'degree':0}
+                    row2 = copyRow(row)
+                    dct[key]['links'].append(row2)
+                    
+                    rowkey = hashRow(row)
+                    if not rowkey in link_dct:
+                        link_dct[rowkey]=[]
+                    link_dct[rowkey].append(key)
     
     
     arr = [(dct[d]['name'], len(dct[d]['links'])) for d in dct]
