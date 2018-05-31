@@ -82,7 +82,7 @@ def main(infolder="persons/csv/", outfile=None):
     for x in graph_dct:
         for y in graph_dct[x]:
             
-            if 4<graph_dct[x][y] and graph_dct[x][y]<1000:
+            if 2<graph_dct[x][y] and graph_dct[x][y]<1000:
                 #x_label = dct[x]['name']
                 #y_label = dct[y]['name']
                 dct[x]['degree'] += 1

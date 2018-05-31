@@ -6,8 +6,7 @@ import json
 import requests
 
 def main():
-    threshold = 0.05
-    outfile = "KBlist1850_1890.csv"
+    outfile = "KBlist1830_1910.csv"
     
     #    shortcut for query: http://yasgui.org/short/rk37HaTvf
     query = """
@@ -23,7 +22,7 @@ PREFIX categories:    <http://ldf.fi/nbf/categories/>  PREFIX crm: <http://www.c
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>  
 PREFIX gvp:    <http://vocab.getty.edu/ontology#> 
 
-SELECT DISTINCT ?id ?link ?familyName ?givenName ?gender ?birthDate ?birthPlace ?deathDate ?deathPlace  (group_concat(?category;separator=", ") as ?categories) 
+SELECT DISTINCT ?id ?link ?familyName ?givenName ?gender ?birthDate ?birthPlace ?deathDate ?deathPlace  (group_concat(?category;separator="; ") as ?categories) 
 WHERE {  
   ?id a nbf:PersonConcept ;
       foaf:focus ?prs ;
@@ -36,13 +35,12 @@ WHERE {
         ^crm:P98_brought_into_life ?bir .
    OPTIONAL { ?bir nbf:place ?birthPlace . filter (isliteral(?birthPlace)) }               
           ?bir nbf:time/gvp:estStart ?birthDate . 
-    
-  FILTER ("1850-01-01"<=STR(?birthDate) && STR(?birthDate)<"1890-01-01")
   
     OPTIONAL { ?prs ^crm:P100_was_death_of ?dea .
       OPTIONAL { ?dea nbf:time/gvp:estStart ?deathDate . }        
       OPTIONAL { ?dea nbf:place ?deathPlace . filter (isliteral(?deathPlace)) }        
     }                     
+  FILTER ("1830-01-01"<=STR(?birthDate) && STR(?deathDate)<"1910-01-01")
     OPTIONAL { ?prs nbf:has_category/skos:prefLabel ?category . }
       OPTIONAL { ?id schema:relatedLink ?link . }
 } GROUP BY ?id ?familyName ?givenName ?gender ?birthDate ?birthPlace ?deathDate ?deathPlace ?link ORDER BY ?birthDate ?familyName ?givenName   """
@@ -106,3 +104,7 @@ def makeSparqlQuery(query, endpoint="http://ldf.fi/nbf/sparql"):
 
 if __name__ == '__main__':
     main()
+    
+"""
+https://korp.csc.fi/cgi-bin/korp.cgi?command=count&groupby=lemma%2Ctext_publ_id%2Ctext_issue_date&corpus=KLK_FI_18(99.98.97.96.95.94.93.92.91.90.89.88.87.86.85.84.83.82.81.80.79.78.77.76.75.74.73.72.71.70.69.68.67.66.65.64.63.62.61.60.59.58.57.56.55.54.53.52.51.50)&incremental=true&cqp=%5Bword+%3D+%22Sebastian%22%5D+%5Bword+%3D+%22Gripenberg%22%5D&defaultwithin=sentence&within=&split=&top=&loginfo=lang%3Dfi+search%3Dadv
+"""
