@@ -4,7 +4,7 @@ Created on 30.5.2018
 @author: Johneagle
 '''
 
-import sys
+import sys, os
 
 def getLocations(scvPath):
 	scv = {}
@@ -39,6 +39,10 @@ if __name__ == "__main__":
 		
 		while start < end:
 			filePath = "csv/"+str(start)+"/"+str(id)+".csv"
+			start += 1
+			
+			if not os.path.exists(filePath):
+				continue
 			
 			with open(filePath, "r", encoding="utf-8") as f:
 				for line in f:
@@ -54,8 +58,6 @@ if __name__ == "__main__":
 						sums[place] = add
 					else: 
 						sums[place] = parsed
-			
-			start += 1
 	
 	sumCsvFilePath = "csv/conclusion_"+str(list)+".csv"
 	continentplaces = getLocations(sys.argv[1])
